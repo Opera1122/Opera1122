@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Opera1122
-- 👀 I’m interested in GUI, Web application.
+- 👀 I’m interested in GUI programing and Web application.
 - 🌱 I’m currently learning Spring and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
