@@ -1,7 +1,7 @@
 ## About me
-- 👋 Hi, I’m @Opera1122
-- 👀 I’m interested in GUI programing and Web application.
-- 🌱 I’m currently learning Spring and React.
+- Hi, I’m @Opera1122
+- I’m interested in GUI programing and Web application.
+- I’m currently learning Spring and React.
 
 ## Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Opera1122&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opera1122&layout=compact&theme=buefy)
