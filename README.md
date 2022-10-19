@@ -1,4 +1,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Opera1122&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opera1122&layout=compact&theme=buefy)
 - 👋 Hi, I’m @Opera1122
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
