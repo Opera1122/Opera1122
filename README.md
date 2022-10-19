@@ -1,5 +1,5 @@
 ## About me
-- Hi, I’m @Opera1122
+- Hi, I’m Yongmin Lee
 - I’m interested in GUI programing and Web application.
 - I’m currently learning Spring and React.
 
