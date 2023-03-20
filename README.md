@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Games currently in development "Wander In Planet" preview
+![Screenshot_20230309-055439](https://user-images.githubusercontent.com/113095585/226370986-d858793f-2fed-4b21-ba0b-c759b5d4465c.png)
+![Screenshot_20230312-210229](https://user-images.githubusercontent.com/113095585/226370979-5d7a048b-7b45-4cd0-97c0-7a7a57e26df8.png)
